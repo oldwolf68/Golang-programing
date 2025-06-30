@@ -1,6 +1,9 @@
 INFORME DEL PROYECTO
+
 PROYECTO:
+
 SISTEMA DE GESTION DE LIBROS ELECTRONICOS
+
 DESARROLLADOR: Carlos Maruri Mediavilla
 
 RESUMEN:
@@ -13,6 +16,7 @@ OBJETIVOS:
 - Preparar la arquitectura para una futura versión web.
 
 LENGUAJE:
+
 Go (Golang)
 El lenguaje utilizado en este proyecto es Go (también conocido como Golang), un lenguaje de programación desarrollado por Google. Go es conocido por su simplicidad, eficiencia y excelente soporte para la concurrencia, lo cual lo convierte en una excelente opción para aplicaciones de servidor y sistemas distribuidos. En este sistema, Go facilita una arquitectura clara y mantenible, manejando la lógica de negocio, enrutamiento HTTP y conexión a bases de datos de manera eficiente. Su tipado estático, compilación rápida y librerías estándar robustas permiten desarrollar aplicaciones seguras y de alto rendimiento.
 
@@ -43,6 +47,7 @@ Se elaboró un diagrama de arquitectura en capas: modelo, controlador, base de d
 9. Rutas de Interés (links git)
   
 https://github.com/oldwolf68/Golang-programing
+
 
 
 CONCLUSIONES:
